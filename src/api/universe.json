@@ -1,0 +1,44 @@
+{
+  "planets": [
+    {
+      "id": 4,
+      "name": "Mars"
+    },
+    {
+      "id": 5,
+      "name": "Jupiter"
+    },
+    {
+      "id": 6,
+      "name": "Saturn"
+    },
+    {
+      "id": 7,
+      "name": "Uranus"
+    },
+    {
+      "id": 8,
+      "name": "Neptune"
+    }
+  ],
+  "stars": [
+    {
+      "id": 3,
+      "name": "Centaurus"
+    },
+    {
+      "id": 4,
+      "name": "Barnard's Star (Ophiuchus)"
+    },
+    {
+      "id": 5,
+      "name": "Luhman 16 (Vela)"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Hunter"
+    }
+  ]
+}
